@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="football_text">24sp</dimen>
+    <dimen name="football_text_margin_top">50dp</dimen>
+    <dimen name="button_margin">10dp</dimen>
+    <dimen name="score_padding">10dp</dimen>
+    <dimen name="score_text_size">20sp</dimen>
+    <dimen name="foul_corner_text_view_padding">10dp</dimen>
+    <dimen name="foul_corner_text_view_text_size">18sp</dimen>
+    <dimen name="team_name_padding">10dp</dimen>
+    <dimen name="team_name_text_size">25sp</dimen>
+</resources>

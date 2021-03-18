@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="football_text">Football score keeper</string>
+    <string name="team_a_text">Team A</string>
+    <string name="score_0_team">Goal : 0</string>
+    <string name="fouls_0_team">Foul : 0</string>
+    <string name="corners_0_text">Corner kick: 0</string>
+    <string name="_goal_runs">+1 Goal</string>
+    <string name="_fouls_runs">+1 foul</string>
+    <string name="_corner_runs">+1 Corner kick</string>
+    <string name="team_b_name">Team B</string>
+    <string name="reset_button_text">Reset</string>
+</resources>
